@@ -11,6 +11,14 @@
 
 ### Project setup
 
+### firebase
 - visit firebase and create project
+
+### react
+`git clone  https://github.com/letele/refi.git`
+
+`cd refi`
+
+`npm install`
 - create .env file in root folder and store firebase configurations
 - run `npm start` to start development server
