@@ -1,0 +1,12 @@
+export const ACCOUNT = '/account'
+export const ADMIN = '/admin'
+export const ADMIN_USERS = '/admin/users'
+export const ADMIN_USER = `${ADMIN_USERS}/:uid`
+export const ADMIN_POSTS = '/admin/posts'
+export const ADMIN_POST = `${ADMIN_POSTS}/:uid`
+export const HOME = '/home'
+export const LANDING = '/'
+export const PASSWORD_FORGET = '/pw-forget'
+export const SIGN_UP = '/signup'
+export const SIGN_IN = '/signin'
+export const SIGN_OUT = '/signout'
